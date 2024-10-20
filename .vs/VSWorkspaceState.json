@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Librebria.LogicaNegocio",
+    "\\Librebria.LogicaNegocio\\ValueObjets",
+    "\\Libreria.LogicaAccesoDatos",
+    "\\Libreria.LogicaAccesoDatos\\EF",
+    "\\Libreria.LogicaAplicacion",
+    "\\WebApi"
+  ],
+  "PreviewInSolutionExplorer": false
+}
